@@ -1,4 +1,6 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis
+
+In this project, we performed statistical analyses on a fictional prototype "MechaCar" to determine how certain attributes affect the miles per gallon of the vehicle, whether the suspension coils from manufacturing lots meet design specifications, and whether suspension coils in the manufacturing lots can withstand significantly different pounds per square inch than the population mean.
  
 ## Linear Regression to Predict MPG
 
