@@ -30,7 +30,7 @@ To test whether the PSI of suspension coils in all manufacturing lots were stati
 ![t-test on PSI for lot 2 vs the population mean](/images/lot2_t_test.png)
 ![t-test on PSI for lot 3 vs the population mean](/images/lot3_t_test.png)
 
-When comparing the mean PSI of each lot individually to the population mean, lots 1, 2 and 3 have p-values of 1, 0.6072, and 0.04168, respectively. This means that lot 1 has a mean PSI exactly the same as the population mean (1,500), lot 2's mean PSI is not statistically different, and lot 3's mean PSI is statistically different.
+When comparing the mean PSI of each lot individually to the population mean, each lot has a p-value of 1, 0.6072, and 0.04168, respectively. This means that lot 1 has a mean PSI exactly the same as the population mean (1,500), lot 2's mean PSI is not statistically different, and lot 3's mean PSI is statistically different.
 
 ## Study Design: MechaCar vs Competition
 
